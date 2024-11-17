@@ -11,6 +11,13 @@ const songs = [
     { title: "Come and Get Your Love", artist: "Redbone", genre: "Rock" },
     { title: "I'm Not in Love", artist: "10cc", genre: "Pop" },
     { title: "Fooled Around and Fell in Love", artist: "Elvin Bishop", genre: "Rock" },
+    { title: "Wildflowers" ,artist: "Billie Eilish", genre: "Pop"},
+    { title: "Is it a Crime", artist: "Sade", genre: "Soul"},
+    { title: "Lose Control", artist: "Teddt Swims" , genre: "Pop"},
+    { title: "As It Was", artist: "Harry Styles", genre: "Pop"},
+    { title: "Yebba's Heartbreak", artist: "Drake", genre: "Hip hop"},
+    { title: "Video", artist: "Lana Del Rey", genre: "Pop"}
+
     // Feel free to add even more songs
 ];
 
