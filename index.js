@@ -16,7 +16,7 @@ const songs = [
     { title: "Lose Control", artist: "Teddt Swims" , genre: "Pop"},
     { title: "As It Was", artist: "Harry Styles", genre: "Pop"},
     { title: "Yebba's Heartbreak", artist: "Drake", genre: "Hip hop"},
-    { title: "Video", artist: "Lana Del Rey", genre: "Pop"}
+    { title: "Video", artist: "Lana Del Rey", genre: "Pop"},
 
     // Feel free to add even more songs
 ];
